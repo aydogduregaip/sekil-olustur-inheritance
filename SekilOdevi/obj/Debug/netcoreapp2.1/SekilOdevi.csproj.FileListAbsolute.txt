@@ -1,0 +1,11 @@
+C:\Users\Regaip Aydoğdu\source\repos\SekilOdevi\SekilOdevi\bin\Debug\netcoreapp2.1\SekilOdevi.deps.json
+C:\Users\Regaip Aydoğdu\source\repos\SekilOdevi\SekilOdevi\bin\Debug\netcoreapp2.1\SekilOdevi.runtimeconfig.json
+C:\Users\Regaip Aydoğdu\source\repos\SekilOdevi\SekilOdevi\bin\Debug\netcoreapp2.1\SekilOdevi.runtimeconfig.dev.json
+C:\Users\Regaip Aydoğdu\source\repos\SekilOdevi\SekilOdevi\bin\Debug\netcoreapp2.1\SekilOdevi.dll
+C:\Users\Regaip Aydoğdu\source\repos\SekilOdevi\SekilOdevi\bin\Debug\netcoreapp2.1\SekilOdevi.pdb
+C:\Users\Regaip Aydoğdu\source\repos\SekilOdevi\SekilOdevi\obj\Debug\netcoreapp2.1\SekilOdevi.csprojAssemblyReference.cache
+C:\Users\Regaip Aydoğdu\source\repos\SekilOdevi\SekilOdevi\obj\Debug\netcoreapp2.1\SekilOdevi.csproj.CoreCompileInputs.cache
+C:\Users\Regaip Aydoğdu\source\repos\SekilOdevi\SekilOdevi\obj\Debug\netcoreapp2.1\SekilOdevi.AssemblyInfoInputs.cache
+C:\Users\Regaip Aydoğdu\source\repos\SekilOdevi\SekilOdevi\obj\Debug\netcoreapp2.1\SekilOdevi.AssemblyInfo.cs
+C:\Users\Regaip Aydoğdu\source\repos\SekilOdevi\SekilOdevi\obj\Debug\netcoreapp2.1\SekilOdevi.dll
+C:\Users\Regaip Aydoğdu\source\repos\SekilOdevi\SekilOdevi\obj\Debug\netcoreapp2.1\SekilOdevi.pdb
