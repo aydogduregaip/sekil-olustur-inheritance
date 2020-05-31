@@ -1,0 +1,1 @@
+# SekilOlustur_Inheritance
